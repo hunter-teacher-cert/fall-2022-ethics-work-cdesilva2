@@ -1,0 +1,1 @@
+I would modify the plane code by allowing the person who is booking more than one seat can book them all together for a small fee. This would allow families to sit together and elderly individuals to sit together. 
